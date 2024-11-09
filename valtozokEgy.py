@@ -14,7 +14,7 @@ print(2 in f)
 question = (6 in f)
 print(question)
 
-# returns to or false
+# returns true or false
 
 print(a[0]+d)
 print(f[1]*e)
