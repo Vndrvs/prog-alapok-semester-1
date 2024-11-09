@@ -5,6 +5,7 @@ area = a * b
 
 perimeter = 2 * (a + b)
 
-print(f"The area of the rectangle is: " + str(area) + "cm")
+print(2* (f"The perimeter of the rectangle is: " + str(perimeter) + "cm\n"))
+print("The perimeter of the rectangle is: ", str(perimeter), sep='\n')
+      
 
-print(3* (f"The perimeter of the rectangle is: " + str(perimeter) + "cm\n"))
